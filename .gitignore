@@ -1,5 +1,14 @@
 # Compiled class file
 *.class
+*.classpath
+.project
+*/target/*
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
 
 # Log file
 *.log
@@ -9,7 +18,7 @@
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
-
+*.gitignore
 # Package Files #
 *.jar
 *.war
